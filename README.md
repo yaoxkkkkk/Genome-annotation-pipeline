@@ -1,11 +1,5 @@
 # Genome-annotation-pipeline
 
-> This grape genome annotation pipeline is modified based on [AnnotationPipeline-EVM_based-DClab](https://github.com/andreaminio/AnnotationPipeline-EVM_based-DClab), intergrating following tutorials:
->
-> [Create de novo repeat library (biostars.org)](https://www.biostars.org/p/411101/)
->
-> [Repeat masking — documentation 1 documentation (blaxter-lab-documentation.readthedocs.io)](https://blaxter-lab-documentation.readthedocs.io/en/latest/repeat-masking.html)
-
 ## Software
 
 * augustus version 3.3.2
